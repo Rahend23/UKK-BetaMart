@@ -1,0 +1,11 @@
+D:\Visual Studio\UKKCRUD\bin\Debug\BetaMart.accdb
+D:\Visual Studio\UKKCRUD\bin\Debug\UKKCRUD.exe.config
+D:\Visual Studio\UKKCRUD\bin\Debug\UKKCRUD.exe
+D:\Visual Studio\UKKCRUD\bin\Debug\UKKCRUD.pdb
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.csprojAssemblyReference.cache
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.Form1.resources
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.Properties.Resources.resources
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.csproj.GenerateResource.cache
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.csproj.CoreCompileInputs.cache
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.exe
+D:\Visual Studio\UKKCRUD\obj\Debug\UKKCRUD.pdb
